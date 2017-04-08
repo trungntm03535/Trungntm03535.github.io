@@ -1,0 +1,124 @@
+*{margin: 0; padding: 0;} 
+.banner	 {
+	height: 510px;
+	background-color: #a0d3a3;
+	font-family: "tahoma";
+	font-size: 39px;
+	color: #505050;
+}
+.header {
+	font-family: "tahoma";
+	font-size: 39px;
+	color: #505050;
+	padding-top: 190px;
+	padding-bottom: 42px;
+}
+.sub {
+	font-family: "tahoma";
+	font-size: 13px;
+	color: #505050;
+
+}
+.header2 {
+	font-family: "tahoma";
+	font-size: 26px;
+	color: #505050;
+	padding-top: 71px;
+	padding-bottom: 23px;
+
+}
+.wdf {
+	color: #6cba71;
+	font-family: "tahoma";
+	font-size: 26px;
+	font-weight: lighter;
+}
+.sub2 {
+	font-family: "tahoma";
+	font-size: 15px;
+	padding-bottom: 21px;
+
+}
+.buythem {
+	font-size: 16px;
+	color: #050505;
+}
+.btn {
+	    border: 1px solid #373a3c;
+		background-color: white;
+		border-width: 2px;
+		padding: 15px 45px;
+	
+
+	
+}
+h1.logo{
+	font-family: "tahoma";
+	font-size: 35px;
+	
+}
+.menuduoi{
+	background: url(images/khungden.png);
+	font-size: 13px;
+	color: #979797;
+	height: 65px;
+	margin:auto;
+}
+li.nav-item a.nav-link {
+	margin: auto;
+	padding-top: 22px;
+	margin-right: 47px;
+	
+	font-family: tahoma;
+	color: #979797!important;
+	height: 65px;
+	margin-top: -8px;
+
+}
+li.nav-item a.nav-link:hover{
+	color: #5db463!important;
+	background: url(images/hover.png);
+}
+li.nav-item.active a.nav-link{
+	color: #5db463!important;
+}
+
+.bentrong{
+	padding-left: 270px;
+}
+
+
+
+.phan20 h1.why{
+	font-family: "tahoma";
+	font-size: 21px;
+}
+.phan20 h1{
+	font-family: "tahoma";
+	font-size: 26px;
+}
+.phan20 h1 b.xanh{
+	font-family: "tahoma";
+	font-size: 26px;
+	color: #5db463!important;
+
+}
+.phan20 .noidung{
+	width: 445px;
+	font-size: 12px;
+	color: #979797;
+
+}
+.phancuoi{
+	background-color: #333333;
+}
+.phancuoi{
+	position: relative;
+	 }
+.layer1 {
+	color: white;
+	padding:10px 20px;
+
+}
+.cpr {
+	color: #5db463;
