@@ -1,0 +1,263 @@
+.version.sampham /* version checker */
+{
+	color: #0000EA;
+	background-color: #060EA9;
+}
+
+#page
+{
+	z-index: 1;
+	width: 845px;
+	min-height: 409.99999999999943px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 28px 20px 62.00000000000057px 305px;
+}
+
+#menuu377
+{
+	z-index: 2;
+	width: 446px;
+	margin-left: 399px;
+	position: relative;
+}
+
+#u385
+{
+	width: 147px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u386
+{
+	width: 147px;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u386:hover
+{
+	width: 147px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u386:active
+{
+	width: 147px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u387-4
+{
+	width: 147px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u386:hover #u387-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 147px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u386:active #u387-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 147px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u378
+{
+	width: 147px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 149px;
+}
+
+#u379
+{
+	width: 147px;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u386.MuseMenuActive,#u379:hover
+{
+	width: 147px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u379:active
+{
+	width: 147px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u379.MuseMenuActive
+{
+	width: 147px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u380-4
+{
+	width: 147px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u386.MuseMenuActive #u387-4,#u379:hover #u380-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 147px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u379:active #u380-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 147px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u379.MuseMenuActive #u380-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 147px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u455
+{
+	width: 148px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 298px;
+}
+
+#u456
+{
+	width: 148px;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u456:hover
+{
+	width: 148px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u456:active
+{
+	width: 148px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u456.MuseMenuActive
+{
+	width: 148px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u457-4
+{
+	width: 148px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u456:hover #u457-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 148px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u456:active #u457-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 148px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u456.MuseMenuActive #u457-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 148px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u486-4
+{
+	z-index: 23;
+	width: 531px;
+	min-height: 49px;
+	background-color: transparent;
+	font-size: 60px;
+	line-height: 72px;
+	margin-left: 42px;
+	margin-top: 47px;
+	position: relative;
+}
+
+#u476
+{
+	z-index: 21;
+	width: 550px;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 1170px;
+}
+

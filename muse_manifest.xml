@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="trungntm03535.github.io" resolutions="1x" timestamp="1491878988501">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3885830662" ref="index"/>
+    <file name="sanpham.css" crc="188427033" ref="sanpham"/>
+    <file name="master_a-master.css" crc="4068704453" ref="index:sanpham:sampham"/>
+    <file name="sampham.css" crc="3926265513" ref="sampham"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:sanpham:sampham"/>
+    <file name="museutils.js" crc="531812214" ref="index:sanpham:sampham"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sanpham:sampham"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:sanpham:sampham"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="sanpham:index:sampham"/>
+    <file name="html5shiv.js" crc="4241844378" ref="sanpham:index:sampham"/>
+  </folder>
+  <folder name="images">
+    <file name="17796253_2046518975396552_8589470364572075438_n.jpg" crc="4143182826" seo="true" ref="index"/>
+    <file name="tải xuống.jpg" crc="403434180" seo="true" ref="sanpham"/>
+    <file name="nhung-kieu-toc-dai-uon-xoan-dep-tuong-9.jpg" crc="4229712712" seo="true" ref="sampham"/>
+  </folder>
+  <file name="index.html" crc="330955435" seo="true" mt="1491878929042" redirect="true"/>
+  <file name="sanpham.html" crc="491937400" seo="true" mt="1491878929042" redirect="true"/>
+  <file name="sampham.html" crc="211685242" seo="true" mt="1491878978845" redirect="true"/>
+</manifest>
